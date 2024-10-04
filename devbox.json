@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.2/.schema/devbox.schema.json",
+  "packages": [
+    "go@1.23.1",
+    "kubectl@1.31.0",
+    "kubebuilder@4.2.0",
+    "zellij@0.40.1"
+  ],
+  "shell": {
+    "init_hook": [],
+    "scripts":   {}
+  }
+}
